@@ -20,10 +20,7 @@ KEY = "o1zrmHAF"
 
 #CM:移动 CU:联通 CT:电信
 #修改需要更改的dnspod域名核子域名
-DOMAINS = {
-    "hostmonit.com": {"@": ["CM","CU","CT"], "shop": ["CM", "CU", "CT"], "stock": ["CM","CU","CT"]},
-    "4096.me": {"@": ["CM","CU","CT"], "vv": ["CM","CU","CT"]}
-}
+DOMAINS = {“v8dg.com”: {"@": ["CM","CU","CT"], "www": ["CM", "CU","CT"], "m": ["CM","CU","CT"]},"11dyz.com": {"@": ["CM","CU","CT"], "www":["CM","CU","CT"],"m":["CM","CU","CT"]},"1cmdy.com": {"@": ["CM","CU","CT"], "www":["CM","CU","CT"],"m":["CM","CU","CT"]}}
 
 #解析生效条数 免费的DNSPod相同线路最多支持2条解析
 AFFECT_NUM = 2
